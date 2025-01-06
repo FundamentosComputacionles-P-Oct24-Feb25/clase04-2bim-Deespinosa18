@@ -19,4 +19,4 @@
 
 // 30
 // 110
-//
+// En este codigo existen 2 procedimientod ya que no existen funciones por el tema del retorno, formalmente no existen dos funciones ya que no hay retorno ni en obtenersuma ni en funcion principal.
